@@ -139,7 +139,7 @@ const NotePage = () => {
   return (
     <div>
       <div className='container'>
-        <div className='row mt-5'>
+        <div className='row mt-4'>
           <div className='col-6 mx-auto'>
             <div className='card'>
               <div className='card-header'>

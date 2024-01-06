@@ -1,4 +1,5 @@
 .scroll-card {
-  height: 470px;
+  max-height: 450px;
+  height: 100%;
   overflow: scroll;
 }

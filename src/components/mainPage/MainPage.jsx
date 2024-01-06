@@ -84,7 +84,7 @@ const MainPage = () => {
                       <Link
                         to={`/note-page/${todo.id}`}
                         className='d-flex align-items-center justify-content-between w-100'>
-                        <p className='todo-title fw-bold'>
+                        <p className='todo-title text-black'>
                           <span className='me-3'>{index + 1}.</span>
                           {todo.title}
                         </p>
